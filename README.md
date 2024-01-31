@@ -1,4 +1,7 @@
 # Sales-Dashboard
+[
+[1694590369411.pdf](https://github.com/Somya2115/Sales-Dashboard/files/14109240/1694590369411.pdf)
+](url)
 🔍 Project Highlights:
 🧹 Data Cleaning and Preprocessing: I meticulously cleaned and preprocessed the dataset to ensure data accuracy and quality. Clean data is the foundation of any meaningful analysis!
 
